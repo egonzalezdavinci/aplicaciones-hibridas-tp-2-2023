@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6542eb87dc02e8ebac934076"
+  },
+  "name": "Run Genesis",
+  "genre": "Aventura",
+  "members": [
+    "Roberto Dimotta",
+    "Javier Mendez",
+    "Julieta Dominguez"
+  ],
+  "edition": 2023,
+  "puntaje": 6.474609375
+},
+{
+  "_id": {
+    "$oid": "6542ec06dc02e8ebac934077"
+  },
+  "name": "Oasis Futbol",
+  "genre": "Deporte",
+  "members": [
+    "Roberto Dimotta",
+    "Javier Mendez",
+    "Julieta Dominguez"
+  ],
+  "edition": 2023,
+  "puntaje": 7.375
+},
+{
+  "_id": {
+    "$oid": "654659a4f01c0a7c2fee11b7"
+  },
+  "name": "Mario run",
+  "genre": "Aventura",
+  "members": [
+    "Javier Martinez",
+    "Hernan Dominguez",
+    "Juan Rivera"
+  ],
+  "edition": 2022,
+  "puntaje": 0
+},
+{
+  "_id": {
+    "$oid": "65465dbc7544c3beed496757"
+  },
+  "name": "Bomb run",
+  "genre": "Aventura",
+  "members": [
+    "Muguel Sanchez",
+    "Feliz Duarte"
+  ],
+  "edition": 2023,
+  "puntaje": 7
+}]

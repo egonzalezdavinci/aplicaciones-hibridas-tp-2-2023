@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "654c338b031c8d5c758d516b"
+  },
+  "judge_id": {
+    "$oid": "6542e975dc02e8ebac934072"
+  },
+  "judge_name": "Pedro Traverso",
+  "game_id": {
+    "$oid": "6542eb87dc02e8ebac934076"
+  },
+  "game_name": "Run Genesis",
+  "jugabilidad": 5,
+  "arte": 6,
+  "sonido": 6,
+  "afinidadaALaTematica": 9
+},
+{
+  "_id": {
+    "$oid": "654fa26b398787a0d1936136"
+  },
+  "judge_id": {
+    "$oid": "6542e875dc02e8ebac934071"
+  },
+  "judge_name": "German Gutierrez",
+  "game_id": {
+    "$oid": "6542eb87dc02e8ebac934076"
+  },
+  "game_name": "Run Genesis",
+  "jugabilidad": 7,
+  "arte": 10,
+  "sonido": 7,
+  "afinidadaALaTematica": 2
+},
+{
+  "_id": {
+    "$oid": "654fa5c910d351195fbb6616"
+  },
+  "judge_id": {
+    "$oid": "6542e875dc02e8ebac934071"
+  },
+  "judge_name": "German Gutierrez",
+  "game_id": {
+    "$oid": "6542ec06dc02e8ebac934077"
+  },
+  "game_name": "Oasis Futbol",
+  "jugabilidad": 7,
+  "arte": 10,
+  "sonido": 7,
+  "afinidadaALaTematica": 10
+},
+{
+  "_id": {
+    "$oid": "654fa69110d351195fbb6617"
+  },
+  "judge_id": {
+    "$oid": "6542e975dc02e8ebac934072"
+  },
+  "judge_name": "Pedro Traverso",
+  "game_id": {
+    "$oid": "65465dbc7544c3beed496757"
+  },
+  "game_name": "Bomb run",
+  "jugabilidad": 7,
+  "arte": 5,
+  "sonido": 7,
+  "afinidadaALaTematica": 9
+}]
